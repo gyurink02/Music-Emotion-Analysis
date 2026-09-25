@@ -1,2 +1,2 @@
-# Emotion-Analysis-Using-Musical-Features
+# Analyzing emotions based on musical features
 Big Data Visualization Team Project (SympoMotion, Fall 2025)
